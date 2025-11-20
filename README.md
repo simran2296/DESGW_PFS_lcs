@@ -1,5 +1,11 @@
 # DESGW_PFS_lcs
 
-- Generate kick velocity vs disk density parameter space heatmap using [S250328ae_model_parameter_space.ipynb](S250328ae/S250328ae_model_parameter_space.ipynb)
+Key scripts for paper plots:
 
-- Use optimum parameter combination from heatmap to plot lightcurves in [S250328ae_lcs.ipynb](S250328ae/S250328ae_lcs.ipynb)
+- Figure 2: [S250328ae_lcs.ipynb](S250328ae/S250328ae_lcs.ipynb)
+
+- Figure 4: [S250328ae_model_parameter_space_QSO_SED.ipynb](S250328ae/S250328ae_model_parameter_space.ipynb)
+
+Other key scripts:
+
+- Reproduction of Graham 2020 lightcurves: [Graham_lcs.ipynb](S250328ae/Graham_lcs.ipynb)
